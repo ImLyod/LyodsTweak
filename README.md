@@ -14,4 +14,4 @@ Download @ https://discord.gg/T5t3hJYzsa
 - [SpeedGuide](https://www.speedguide.net/)
 
 ### Disclaimer
-This application grabs your desktop username to count unique users and is sent to a private discord channel ([Example](https://i.imgur.com/vNtGUec.png)). No other data is sent.
+<sup>This application grabs your desktop username to count unique users and is sent to a private discord channel ([Example](https://i.imgur.com/vNtGUec.png)). No other data is sent.</sup>
