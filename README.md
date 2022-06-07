@@ -2,7 +2,7 @@
 
 # LyodsTweak
 
-A program that changes windows settings to maximize your pc performance.
+A program that changes windows settings to maximize your pc performance. (ONLY TESTED ON WINDOWS 10 & 11)
 
 Download @ https://discord.gg/T5t3hJYzsa
 
