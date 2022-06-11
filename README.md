@@ -14,8 +14,14 @@ Download @ https://discord.gg/T5t3hJYzsa
 **How do I use this?**
 > There's instructions in the discord #LyodsTweak. Just scroll up, and there's also a read me.txt inside the .7z version.
 
-**Why should I trust you?**
-> No one is forcing you to use this. It's up to you to decide if trust this program or not. If you want a more creditable program w/ more features & a huge trusted community look up n1kobg's G-Booster or his site. Also the credits below is a must see aswell if you wanna do the things this program does by yourself without using LyodsTweak.
+**Can't download / PC think it's a virus**
+> ▸ Make sure to disable Windows Virus & threat protection (Real-Time Protection). If you don't know how, feel free to use this,(<https://bit.ly/LyodsTweak-WinRTP>)
+> 
+> ▸ If the first method doesn't work, Add an exclusion for LyodsTweak on your Anti-Virus. (List of Anti-Virus that finds LyodsTweak Safe & Unsafe @  <https://bit.ly/LyodsTweak-AVRGS>)
+> 
+> ▸ If you don't feel safe not having Windows default Anti-Virus on, use a better 3rd party program like Malwarebytes. (or you can just re-enable it after setting tweak.)
+> 
+> ▸ If you still dont trust us and want a more creditable program w/ more features & a huge trusted community look up n1kobg's G-Booster or his site. Also the credits below is a must see aswell if you wanna do the things this program does by yourself without using LyodsTweak.
 
 
 # Credits
