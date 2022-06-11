@@ -20,7 +20,7 @@ Download @ https://discord.gg/T5t3hJYzsa
 
 # Credits
 - [Lyod ](https://discordapp.com/users/303610282008248320/)
-- [n1kobg](http://n1kobg.blogspot.com/) <sup>(Also has a program that is similar to this, but more advanced.)</sup>
+- [n1kobg](http://n1kobg.blogspot.com/)
 - [Orbmu2k](https://github.com/Orbmu2k)
 - [TenForums](https://www.tenforums.com/)
 - [SpeedGuide](https://www.speedguide.net/)
